@@ -1,0 +1,6 @@
+video1.mp4 0
+video3.mp4 0
+video2.mp4 0
+video6.mp4 1
+video5.mp4 1
+video4.mp4 1
