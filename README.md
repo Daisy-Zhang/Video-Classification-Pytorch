@@ -5,23 +5,23 @@ General video classification framework implemented by Pytorch for all video clas
 
 ## structure
 
-### checkpoints/
+### /checkpoints
 
 This directory will store all models you trained.
 
-### data/
+### /data
 
 Please put all your training or test data in this directory and follow the original directory structure.
 
-### log/
+### /log
 
 All log record file will be stored in this directory.
 
-### models/
+### /models
 
 You can put all the network model you design in this directory. I already provide four classic networks: **ALSTM**, **CNNLSTM**,**LRCN**, **RNN**.
 
-### simple_test/
+### /simple_test
 
 A simple test dataset created by me to validate the test function. Users can keep this directory and make their own change to use their test data, or just delete this directory.
 
